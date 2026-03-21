@@ -36,4 +36,12 @@
 ### Malaysia marriage rate analysis and dashboard
 -<a href="https://github.com/Donovandonz/Tableau--marriage-rate-analysis">Marriage-rate</a>
 
+---
+
+### Job and Salary prediction analysis and dashboard
+-<a href="https://github.com/Donovandonz/Tableau--job-salary-prediction-analysis-and-dashboard/blob/main/README.md">Job-salary-prediction-analysis-dashboard</a>
+
+---
+
+
 
